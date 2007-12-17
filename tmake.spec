@@ -10,7 +10,6 @@ License:	Distributable (see LICENSE file)
 URL:		http://tmake.sourceforge.net
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/tmake/%name-%version.tar.bz2
 Requires:	perl
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 
 %description
