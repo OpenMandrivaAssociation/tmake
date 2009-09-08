@@ -4,7 +4,7 @@
 Summary:	Easy-to-use tool for creating and maintaining portable makefiles
 Name:		tmake
 Version:	2.12
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		Development/Other
 License:	Distributable (see LICENSE file)
 URL:		http://tmake.sourceforge.net
