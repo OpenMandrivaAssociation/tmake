@@ -6,6 +6,7 @@ Group:		Development/Other
 License:	Distributable (see LICENSE file)
 URL:		http://tmake.sourceforge.net
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/tmake/%name-%version.tar.bz2
+Source1:	%{name}.rpmlintrc
 Requires:	perl
 BuildArch:	noarch
 
