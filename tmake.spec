@@ -1,7 +1,7 @@
 Summary:	Easy-to-use tool for creating and maintaining portable makefiles
 Name:		tmake
 Version:	2.12
-Release:	7
+Release:	8
 Group:		Development/Other
 License:	Distributable (see LICENSE file)
 URL:		http://tmake.sourceforge.net
