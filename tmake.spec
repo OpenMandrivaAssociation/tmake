@@ -4,7 +4,7 @@ Version:	2.12
 Release:	8
 Group:		Development/Other
 License:	Distributable (see LICENSE file)
-URL:		http://tmake.sourceforge.net
+URL:		https://tmake.sourceforge.net
 Source0:	http://heanet.dl.sourceforge.net/sourceforge/tmake/%name-%version.tar.bz2
 Source1:	%{name}.rpmlintrc
 Requires:	perl
