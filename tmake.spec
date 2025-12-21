@@ -10,6 +10,7 @@ Source1:	%{name}.rpmlintrc
 Requires:	perl
 BuildArch:	noarch
 
+BuildRequires:	make
 %description
 Tmake is an easy-to-use tool for creating and maintaining makefiles across
 many platforms and compilers. This is a command-line tool based on project
